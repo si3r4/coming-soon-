@@ -2,4 +2,4 @@
 
 Website Frontend Using HTML And CSS
 
-![alt text](./sample.png)
+![image](./sample.png)
